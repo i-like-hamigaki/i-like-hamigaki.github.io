@@ -22,10 +22,10 @@ url: "https://uofacryptoclub.github.io/" # the base hostname & protocol for your
 author: 
   name: CryptoReedus
   twitter:
-  picture: /images/steemit-sig---june-4,-2017---no-@reedus.png
+  picture: assets/images/steemit-sig---june-4,-2017---no-@reedus.png
 twitter_username: reedus33
 github_username: uofacryptoclub
-logo: /images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: assets/images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
