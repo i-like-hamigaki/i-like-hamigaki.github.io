@@ -7,6 +7,10 @@
       </a>
     </li>
   {% endif %}
+  
+  {% if site.youtube_username %}
+    <li>{% include icon-youtube.html username=site.youtube_username label='YouTube' %}</li>
+  {% endif %}
 
   {% if site.github_username %}
     <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
