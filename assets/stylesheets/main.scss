@@ -13,6 +13,15 @@ $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 $overlay-color: $base-color !default;
 
+
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+
+
 // intro image customization
 
 .intro-image {
@@ -30,9 +39,3 @@ $overlay-color: $base-color !default;
     background-color: white !important; // rgba($accent-color, 0);
     content: '';
   }
-
-
-// Theme skin
-@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-
-@import "basically-basic";
