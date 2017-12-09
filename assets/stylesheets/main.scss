@@ -15,6 +15,15 @@ $overlay-color: $base-color !default;
 
 // intro image customization
 
+
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+
+
 .intro-image {
   position: relative;
   margin-top: -3rem; /* compensate for intro top margin */
@@ -27,7 +36,7 @@ $overlay-color: $base-color !default;
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: transparent; // rgba($accent-color, 0);
+    background-color: transparent !important; // rgba($accent-color, 0);
     content: '';
   }
   
@@ -35,12 +44,3 @@ $overlay-color: $base-color !default;
     width: 100%;
   }
 }
-
-
-// Theme skin
-@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-
-@import "basically-basic";
-
-
-
