@@ -19,7 +19,7 @@ $overlay-color: $base-color !default;
   position: relative;
   margin-top: -3rem; /* compensate for intro top margin */
   margin-bottom: 3rem;
-  background-color: transparent !important; 
+  
 
   &::before {
     position: absolute;
@@ -27,7 +27,7 @@ $overlay-color: $base-color !default;
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: transparent !important; // rgba($accent-color, 0);
+    background-color: white !important; // rgba($accent-color, 0);
     content: '';
   }
 
