@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-// my theme customizations
+// color customizations
 $base-color: #393e46 !default;
 $text-color: #222831 !default;
 $accent-color: #007C41 !default;
@@ -12,6 +12,22 @@ $background-color: #fff !default;
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 $overlay-color: $base-color !default;
+
+// intro image customization
+
+.intro-image {
+  position: relative;
+  margin-top: -3rem; /* compensate for intro top margin */
+  margin-bottom: 3rem;
+
+  &::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+  }
 
 
 // Theme skin
