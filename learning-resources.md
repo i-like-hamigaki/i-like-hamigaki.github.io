@@ -15,7 +15,7 @@ Start Date: Two cycles (September and February)
   
 
 <br>  
-The following are other blockchain and cryptocurrency courses offered. If you have taken any, please give us insight as to their quality by commenting below.  
+The following are other blockchain and cryptocurrency courses offered online from various sources. If you have taken any, please give us insight as to their quality by commenting below.  
 
 [Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)  
 IBM developerWorks
