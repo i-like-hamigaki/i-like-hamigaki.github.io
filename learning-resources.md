@@ -16,11 +16,15 @@ Start Date: Two cycles (September and February)
   
 
 <br>  
-The following are other blockchain and cryptocurrency courses offered. If you have taken any, please give us insight as to their quality by commenting below. 
+The following are other blockchain and cryptocurrency courses offered. If you have taken any, please give us insight as to their quality by commenting below.  
 
-[Federal Taxation of Bitcoin & Virtual Currencies](https://cpe.becker.com/catalog/product/216/details)  
-Becker Professional Education  
-Cost: $29.00 USD
+[Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)  
+IBM developerWorks
+Cost: Free
+
+[IBM Blockchain foundation developer](https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/)  
+IBM developerWorks
+Cost: Free
 
 [Blockchain Academy Courses](https://academy.b9lab.com/courses)  
 Cost: Various ('Ethereum 101' = free)
@@ -32,5 +36,13 @@ Cost: $30.00 CAD
 [Blockchain Technology: A Guide To The Blockchain Ecosystem](https://www.udemy.com/blockchain/)  
 Udemy  
 Price: $30.00 CAD
+
+[Federal Taxation of Bitcoin & Virtual Currencies](https://cpe.becker.com/catalog/product/216/details)  
+Becker Professional Education  
+Cost: $29.00 USD
+
+Blockchain for Lawyers 101 - [Part 1](http://www.lawtechnologytoday.org/2017/01/blockchain-101-for-lawyers-part-1/) - [Part 2](http://www.lawtechnologytoday.org/2017/01/blockchain-lawyers-101-part-2/)  
+Law Technology Today (LTT)  
+Blog post / guide
 
 
