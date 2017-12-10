@@ -35,7 +35,7 @@ Cost: $30.00 CAD
 
 [Blockchain Technology: A Guide To The Blockchain Ecosystem](https://www.udemy.com/blockchain/)  
 Udemy  
-Price: $30.00 CAD
+Price: $30.00 CAD 
 
 [Federal Taxation of Bitcoin & Virtual Currencies](https://cpe.becker.com/catalog/product/216/details)  
 Becker Professional Education  
