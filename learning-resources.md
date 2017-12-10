@@ -1,7 +1,6 @@
 ---
 title: "Learning Resources"
-layout: page
-comments: true
+layout: post
 ---
 
 The following are full, free course offerings that are also part of the Crypto Club's determination of *standing* (see consititution):
