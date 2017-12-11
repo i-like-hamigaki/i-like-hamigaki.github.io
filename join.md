@@ -1,4 +1,5 @@
 ---
+title: Join
 layout: page
 alt_title: "Join the Crypto Club"
 sub_title: ""
