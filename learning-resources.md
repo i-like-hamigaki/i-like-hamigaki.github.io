@@ -18,11 +18,11 @@ Start Date: Two cycles (September and February)
 The following are other blockchain and cryptocurrency courses offered online from various sources. If you have taken any, please give us insight as to their quality by commenting below.  
 
 [Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)  
-IBM developerWorks
+IBM developerWorks  
 Cost: Free
 
 [IBM Blockchain foundation developer](https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/)  
-IBM developerWorks
+IBM developerWorks  
 Cost: Free
 
 [Blockchain Academy Courses](https://academy.b9lab.com/courses)  
