@@ -1,7 +1,7 @@
 ---
 title: Join
 layout: page
-alt_title: "Join the Crypto Club"
+alt_title: "Become a Member of the Crypto Club"
 sub_title: ""
 image: /assets/images/header1.png
 ---
