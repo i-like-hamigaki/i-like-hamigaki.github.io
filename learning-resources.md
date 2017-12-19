@@ -3,7 +3,7 @@ title: "Learning Resources"
 layout: post
 ---
 
-Free full course offerings (requirement for Crypto Club *gold standing* (see consititution):
+**Free full course offerings** (requirement for Crypto Club *gold standing* - see constitution):
 
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)  
 Princeton University (Coursera)  
@@ -15,9 +15,7 @@ Start Date: Two cycles (September and February)
   
 
 <br>  
-Other free blockchain and cryptocurrency courses offered online. 
-<br>
-If you have taken any, please give us insight as to their quality by commenting below.  
+**Other blockchain and cryptocurrency courses offered online**(if you have taken any, please let us know how they were in the comments): 
 
 [Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)  
 IBM developerWorks  
@@ -47,7 +45,8 @@ Law Technology Today (LTT)
 Blog post / guide
 <br>
 
-Free Books and Guides:  
+**Free Books and Guides:**
+<br>
 [Cryptocurrency for Beginners by theWalrus](/assets/documents/Cryptocurrency for Beginners by theWalrus.pdf)  
 
 
