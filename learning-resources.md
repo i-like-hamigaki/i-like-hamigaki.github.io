@@ -43,14 +43,15 @@ Cost: $29.00 USD
 Blockchain for Lawyers 101 - [Part 1](http://www.lawtechnologytoday.org/2017/01/blockchain-101-for-lawyers-part-1/) - [Part 2](http://www.lawtechnologytoday.org/2017/01/blockchain-lawyers-101-part-2/)  
 Law Technology Today (LTT)  
 Blog post / guide
+<br>  
 <br>
-  
   
 **FREE BOOKS AND GUIDES:**
 <br>
 <br>
 [Cryptocurrency for Beginners by theWalrus](/assets/documents/Cryptocurrency for Beginners by theWalrus.pdf)  
-
+<br>
+[A Beginner's Guide to Altcoin Day Trading](/assets/documents/A Beginner's Guide to Altcoin Day Trading.pdf)
 
 
 
