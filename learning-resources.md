@@ -52,7 +52,16 @@ Blog post / guide
 [Cryptocurrency for Beginners by theWalrus](/assets/documents/Cryptocurrency for Beginners by theWalrus.pdf)  
 <br>
 [A Beginner's Guide to Altcoin Day Trading](/assets/documents/A Beginner's Guide to Altcoin Day Trading.pdf)
+<br>
+<br>
 
+**USEFUL POSTS:**
+
+[Picking Out Microcaps 101](https://medium.com/@daytradernik/picking-out-microcaps-101-2215a5782691)  
+Day Trader Nik
+
+[Trading Tips: How to Pick Low Cap Currencies](https://medium.com/@cryptorand/trading-tips-how-i-pick-low-cap-cryptocurrencies-a323c41239d8)  
+CryptoRand
 
 
 <br>
