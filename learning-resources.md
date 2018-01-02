@@ -3,7 +3,7 @@ title: "Learning Resources"
 layout: post
 ---
 
-**FREE FULL COURSE OFFERINGS** (requirement for Crypto Club *gold standing*):
+**FREE FULL COURSE OFFERINGS** (requirement for Crypto Club *silver standing*):
 
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)  
 Princeton University (Coursera)  
