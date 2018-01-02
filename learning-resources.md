@@ -55,7 +55,7 @@ Blog post / guide
 <br>
 <br>
 
-**USEFUL POSTS:**
+**USEFUL / INTERESTING POSTS:**
 
 [Picking Out Microcaps 101](https://medium.com/@daytradernik/picking-out-microcaps-101-2215a5782691)  
 Day Trader Nik
@@ -63,6 +63,8 @@ Day Trader Nik
 [Trading Tips: How to Pick Low Cap Currencies](https://medium.com/@cryptorand/trading-tips-how-i-pick-low-cap-cryptocurrencies-a323c41239d8)  
 CryptoRand
 
+[What is Cryptocurrency Game Theory: A Basic introduction](https://blockgeeks.com/guides/cryptocurrency-game-theory/)  
+Blockgeeks
 
 <br>
 <br>
