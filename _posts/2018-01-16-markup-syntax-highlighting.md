@@ -24,8 +24,8 @@ Members not in attendance included Matthew Pietrosanu, Laura Petrich, Taleana Hu
 ## Agenda items
 1.	ICEBREAKER – All went around the room and stated name, faculty/degree, and what got them interested in cryptocurrency. 
 2.	Overview of constitution
-⋅⋅* Drafted by RS and JD
-⋅⋅* Mission statement + goals of the group reviewed
+    * Drafted by RS and JD
+    * Mission statement + goals of the group reviewed
 ..* Public education vs. within-group development
 ..* Open to any affiliated with university (alumni, etc)
 ..* Types of membership and divisions of standing. 
