@@ -30,7 +30,7 @@ logo: assets/images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.p
 
 #Disqus shortname
 disqus:
-    shortname: UABCA
+    shortname: 
 
 # Build settings
 markdown: kramdown
