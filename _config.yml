@@ -14,23 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: The Crypto Club
+title: University of Alberta Blockchain and Cryptoasset Association
 email: cryptoreedus@protonmail.com
 description: "An Association of Blockchain and Digital Currency Enthusiasts"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://uofacryptoclub.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://uabca.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name:
   twitter:
   picture: 
 twitter_username: 
-github_username: uofacryptoclub
+github_username: uabca
 youtube_username: UCOmgeRv_YwHA14jH6NSe3DQ
 logo: assets/images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.png"
 
 #Disqus shortname
 disqus:
-    shortname: university-of-alberta-crypto-club
+    shortname: UABCA
 
 # Build settings
 markdown: kramdown
