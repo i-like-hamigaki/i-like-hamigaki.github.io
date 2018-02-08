@@ -1,6 +1,6 @@
 ---
 title: "University of Alberta Crypto Student Group has first official meeting"
-excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
+excerpt: "The Crypto Club had its very first formal meeting on January 16, 2018. 10 members were in attendance, of 18 members who have signed on to join. The group went over a variety of topics outlined in the minutes below, and intends to register the group officially, very soon."
 last_modified_at: 2018-01-28T10:27:01-05:00
 tags: 
   - cryptocurrency
