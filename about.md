@@ -9,7 +9,7 @@ UABCA core members actively meet at least bi-weekly to discuss group development
 
 Some of UABCA’s goals for 2018 include:
 * Reach at least 50 members.
-* Establish partnership and collaborative relationships with crypto clubs at other universities in Canada and the United States.
+* Establish collaborative relationships with crypto clubs at other universities in Canada and the United States.
 * Establish at least two sponsor relationships
 * Hold at least 5 formal events, including public educational seminars
 * Connect with established experts who can speak to UABCA
