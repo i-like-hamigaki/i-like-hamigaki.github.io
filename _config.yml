@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: UNIVERSITY OF ALBERTA BLOCKCHAIN AND CRYPTOASSET ASSOCIATION
+title: UNIVERSITY OF ALBERTA BLOCKCHAIN & CRYPTOASSET ASSOCIATION
 email: cryptoreedus@protonmail.com
 description: "An Association of Blockchain and Digital Currency Enthusiasts"
 baseurl: # the optional subpath of your site, e.g. "/blog"
