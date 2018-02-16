@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-UABCA was founded in February 2018 by a passionate group of graduate students. The group was established to be a vehicle for blockchain and cryptocurrency education, events, projects, and collaborations. 
+UABCA was founded in January 2018 by a passionate group of graduate students. The group was established to be a vehicle for blockchain and cryptocurrency education, events, projects, and collaborations. 
 
 UABCA core members actively meet at least bi-weekly to discuss group development, and for ‘Token Club’ (a crypto themed version of journal club). 
 
