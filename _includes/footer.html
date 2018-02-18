@@ -21,7 +21,7 @@ if(appName==""){appName="local";}
 var s = document.createElement("script");
 s.type = "text/javascript";
 s.async = true;
-var theUrl = baseUrl+'serve/v3/coin/header?fsyms=BTC,ETH,XVG&tsyms=CAD';
+var theUrl = baseUrl+'serve/v3/coin/header?fsyms=BTC,ETH&tsyms=CAD';
 s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
 embedder.parentNode.appendChild(s);
 })();
