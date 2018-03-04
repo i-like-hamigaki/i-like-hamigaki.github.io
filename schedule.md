@@ -1,5 +1,5 @@
 ---
-title: Calendar of Events
+title: Schedule
 layout: page
 alt_title: ""
 sub_title: ""
