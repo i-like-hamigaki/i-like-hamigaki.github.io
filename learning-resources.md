@@ -45,7 +45,16 @@ Law Technology Today (LTT)
 Blog post / guide
 <br>  
 <br>
-  
+
+**GOOD COMPILATIONS OF RESOURCES:**
+<br>
+<br>
+[Spartan Blockchain and Cryptocurrency Club (SBCC) Education Section](http://msublockchain.org/education/)  
+<br>
+[Jameson Lopp Bitcoin Resources](http://lopp.net/bitcoin.html)
+<br>
+<br>
+
 **FREE BOOKS AND GUIDES:**
 <br>
 <br>
