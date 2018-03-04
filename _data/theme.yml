@@ -32,4 +32,5 @@ google_fonts:
 navigation_pages:
   - about.md
   - join.md
+  - schedule.md
   - learning-resources.md
