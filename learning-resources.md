@@ -55,12 +55,43 @@ Blog post / guide
 <br>
 <br>
 
-**FREE BOOKS AND GUIDES:**
+**FREE GUIDES:**
 <br>
 <br>
 [Cryptocurrency for Beginners by theWalrus](/assets/documents/Cryptocurrency for Beginners by theWalrus.pdf)  
 <br>
 [A Beginner's Guide to Altcoin Day Trading](/assets/documents/A Beginner's Guide to Altcoin Day Trading.pdf)
+<br>
+<br>
+
+**BLOCKCHAIN BOOKS:**
+<br>
+<br>
+["Mastering Blockchain" by Imran Bashir]()  
+<br>
+["The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology" by William Mougayar (Author),‎ Vitalik Buterin (Foreword)]()
+<br>
+["Blockchain Applications: A Hands-On Approach" by Arshdeep Bahga, Vijay Madisetti]()
+<br>
+["Building Blockchain Projects" by Narayan Prusty]()
+<br>
+["The Science of the Blockchain" by Roger Wattenhofer]()
+<br>
+<br>
+
+**ETHEREUM BOOKS:**
+<br>
+<br>
+[Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners" by Chris Dannen](https://www.amazon.ca/Introducing-Ethereum-Solidity-Foundations-Cryptocurrency/dp/1484225341)  
+<br>
+<br>
+
+**BITCOIN BOOKS:**
+<br>
+<br>
+["Mastering Bitcoin: Programming the Open Blockchain" by Andreas M. Antonopoulos]()
+<br>
+["Decentralized Applications: Harnessing Bitcoin's Blockchain Technology" by Siraj Raval]()
 <br>
 <br>
 
