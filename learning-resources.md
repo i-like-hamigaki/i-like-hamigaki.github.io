@@ -69,11 +69,11 @@ Blog post / guide
 <br>
 ["Mastering Blockchain" by Imran Bashir]()  
 <br>
-["The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology" by William Mougayar (Author),‎ Vitalik Buterin (Foreword)]()
+["The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology" by William Mougayar (Author),‎ Vitalik Buterin (Foreword)]()  
 <br>
-["Blockchain Applications: A Hands-On Approach" by Arshdeep Bahga, Vijay Madisetti]()
+["Blockchain Applications: A Hands-On Approach" by Arshdeep Bahga, Vijay Madisetti]()  
 <br>
-["Building Blockchain Projects" by Narayan Prusty]()
+["Building Blockchain Projects" by Narayan Prusty]()  
 <br>
 ["The Science of the Blockchain" by Roger Wattenhofer]()
 <br>
@@ -89,7 +89,7 @@ Blog post / guide
 **BITCOIN BOOKS:**
 <br>
 <br>
-["Mastering Bitcoin: Programming the Open Blockchain" by Andreas M. Antonopoulos]()
+["Mastering Bitcoin: Programming the Open Blockchain" by Andreas M. Antonopoulos]()  
 <br>
 ["Decentralized Applications: Harnessing Bitcoin's Blockchain Technology" by Siraj Raval]()
 <br>
