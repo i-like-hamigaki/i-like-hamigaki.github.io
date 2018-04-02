@@ -36,15 +36,23 @@ Cost: $30.00 CAD
 Udemy  
 Price: $30.00 CAD 
 
-[Federal Taxation of Bitcoin & Virtual Currencies](https://cpe.becker.com/catalog/product/216/details)  
-Becker Professional Education  
-Cost: $29.00 USD
-
 Blockchain for Lawyers 101 - [Part 1](http://www.lawtechnologytoday.org/2017/01/blockchain-101-for-lawyers-part-1/) - [Part 2](http://www.lawtechnologytoday.org/2017/01/blockchain-lawyers-101-part-2/)  
 Law Technology Today (LTT)  
 Blog post / guide
 <br>  
 <br>
+
+**CRYPTOASSET TAXATION:** 
+
+[CANADIAN CRYPTO TAXD: LEGAL VS. REASONABLE REQUIREMENTS](https://koiresearchgroup.com/wp-content/uploads/2018/03/Crypto-Tax-in-Canada-Legal-vs-Reasonable-Requirements-Koi_Metrics-v4-03.26.pdf) 
+Koi Research Group & Metrics Chartered Professional Accounting
+FREE  
+  
+[Federal Taxation of Bitcoin & Virtual Currencies](https://cpe.becker.com/catalog/product/216/details)  
+Becker Professional Education  
+Cost: $29.00 USD
+
+
 
 **GOOD COMPILATIONS OF RESOURCES:**
 <br>
