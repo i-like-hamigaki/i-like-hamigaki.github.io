@@ -44,7 +44,7 @@ Blog post / guide
 
 **CRYPTOASSET TAXATION:** 
 
-[CANADIAN CRYPTO TAXD: LEGAL VS. REASONABLE REQUIREMENTS](https://koiresearchgroup.com/wp-content/uploads/2018/03/Crypto-Tax-in-Canada-Legal-vs-Reasonable-Requirements-Koi_Metrics-v4-03.26.pdf) 
+[CANADIAN CRYPTO TAXD: LEGAL VS. REASONABLE REQUIREMENTS](https://koiresearchgroup.com/wp-content/uploads/2018/03/Crypto-Tax-in-Canada-Legal-vs-Reasonable-Requirements-Koi_Metrics-v4-03.26.pdf)  
 Koi Research Group & Metrics Chartered Professional Accounting  
 FREE  
   
