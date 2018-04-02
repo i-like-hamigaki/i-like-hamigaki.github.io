@@ -52,8 +52,8 @@ FREE
 Becker Professional Education  
 Cost: $29.00 USD
 
-
-  
+<br>
+<br>  
   
 **GOOD COMPILATIONS OF RESOURCES:**
 <br>
