@@ -26,7 +26,7 @@ author:
 twitter_username: 
 github_username: uabca
 youtube_username: UCOmgeRv_YwHA14jH6NSe3DQ
-logo: assets/images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/logo-cc.png # path of site logo, e.g. "/assets/images/logo.png"
 
 #Disqus shortname
 disqus:
