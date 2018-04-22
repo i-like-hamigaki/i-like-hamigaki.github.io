@@ -30,9 +30,9 @@ Carbon audits aren’t an exact science – they often rely on statistical assum
 
 **View the full case here: https://goo.gl/xWxvV6**
 
-**WINNERS:**
+### WINNERS: ###
 
-**1st Place ($500) Winner:** 
+## 1st Place ($500) Winner: ## 
 
 Title: Carbon Coin 
 Team: Martha Han, Hylann Ma, Henry Su
@@ -40,3 +40,32 @@ Summary: Currently, companies self-enter carbon emissions into an online system,
 
 ![](https://uabca.github.io/assets/documents/casecomp2018/images/Carboncoin1.PNG)
 ![](https://uabca.github.io/assets/documents/casecomp2018/images/Carboncoin2.PNG)
+
+**2nd Place ($200) Winner:** 
+
+Title: Distributed Carbon Chain and Audit Protocol 
+Team: Mihai Esanu, Peter Atrazhev, and Nathan Doraty 
+Summary:  Blockchains suffer from the ‘oracle problem’, in that they do not have a built in way to access external information. In carbon credits, this applies to the specialized auditing information. To solve the oracle problem, we propose the reputation of information sources in this system be represented by an ERC-20 token, and the Chainlink architecture. Statisticians stake their reputational token, and if their audit report is not in line with overall consensus (ie. inaccurate), they will be punished through reputation deduction (automatic smart contract). [Read full proposal] here(https://uabca.github.io/assets/documents/casecomp2018/2.BlockchainReport.pdf)
+
+![](https://uabca.github.io/assets/documents/casecomp2018/images/High_level_architecture.PNG)
+
+FINALISTS (in no particular order):** 
+
+Title: Blockchain Solution to Carbon-Offsets
+Team: Taleana Huff
+Link to full proposal: [link to hosted file]
+
+Title: Emissions Reductions and Distributed Ledger Technology
+Team: Dragos Cocosila, Christine Lam, & Olivia Wang
+Link to full proposal: [link to hosted file]
+
+Title: A Wager-Based Blockchain Protocol for Tracking International Carbon Offset Credits
+Team: Ashley Herman & Rooshan Aslam
+Link to full proposal: [link to hosted file]
+
+Title: The Potential for Blockchain Technology in Alberta’s Carbon Offset Mechanisms Pertaining to Large Emitters
+Team: Kabir Nadkarni & Jason R Wang
+Link to full proposal: [link to hosted file]
+
+
+
