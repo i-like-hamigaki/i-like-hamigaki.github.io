@@ -28,7 +28,7 @@ Summarize your findings and solution in a written proposal document (1,000 words
 Try tackling the following problem: Develop a protocol that will allow for human verification of transactions, accounting, and audits to occur in a decentralized network of industry experts, from offset origination to retirement. Once an audit occurs and is broadcasted to the network, how is it validated to ensure its accuracy without the oversight of a central authority? What does the incentive system that maintains the blockchain integrity look like? Public or private ledger? Permission-based or open source? How does the reward system work (and what is the reward)? How does data mining occur? These could all be questions to think about if going this route.
 Carbon audits aren’t an exact science – they often rely on statistical assumptions and extrapolations, approximations, and best guesses. Due to this, 2 qualified, professional auditors may evaluate the same project, yet calculate different offset originations based on their interpretation of the data. In order to implement a decentralized blockchain protocol to store data and originate carbon credits, there must be a consensus protocol that involves elements of manual human verification.
 
-**View the full case here: https://goo.gl/xWxvV6**
+**View the full case here: [dsfdsfdf](https://goo.gl/xWxvV6)**
 
 **WINNERS:**
 
