@@ -74,13 +74,13 @@ Team: Kabir Nadkarni & Jason R Wang
 
 Overall, our organization is pleased with our first event.  We melded blockchain into a business format in a way that hasn't really been done before, inclusive of  students of pretty much any faculty (science, math, CS, engineering, business). You can see the demographic of the participants in the chart below.
 
-![]()
+![](https://uabca.github.io/assets/documents/casecomp2018/images/png;base641d11925411272a89.png)
 
 We had a great turnout at the presentation and windup event as well. The audience's engagement was excellent, with many excellent and informed questions being asked. Participants stuck around for hours afterwards to mingle with each other and network with industry professionals who were present from Calgary.   
 
 We also received feedback from participants (likert scores presented in the chart below), and from our own observations and those of our organizers. 
 
-![]()
+![](uabca.github.io/assets/documents/casecomp2018/images/png;base6486caacec8452599c.png)
 
 At our next case competition, we hope to have smoother transitions between presenters, have more judges, and more explicit judging criteria and quantitative scoring. We also intend to increase the proposal word limit to 1500, and the presentation time from 7 minutes to 10 minutes.  
 
