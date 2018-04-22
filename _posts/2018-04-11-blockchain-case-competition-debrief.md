@@ -30,7 +30,7 @@ Carbon audits aren’t an exact science – they often rely on statistical assum
 
 **View the full case here: https://goo.gl/xWxvV6**
 
-### WINNERS: ###
+# WINNERS: #
 
 ## 1st Place ($500) Winner: ## 
 
