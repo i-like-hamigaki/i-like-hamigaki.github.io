@@ -30,42 +30,61 @@ Carbon audits aren’t an exact science – they often rely on statistical assum
 
 **View the full case here: https://goo.gl/xWxvV6**
 
+
 # WINNERS: #
 
 ## 1st Place ($500) Winner: ## 
 
-Title: Carbon Coin 
+**Carbon Coin** 
 Team: Martha Han, Hylann Ma, Henry Su
 Summary: Currently, companies self-enter carbon emissions into an online system, with audits periodically conducted. To improve transparency and accountability, instead companies will upload their carbon-auditable records to IPFS. The government will issue Carbon Coins, proportional to obligated emissions targets. Companies will hire 2 independent auditors, granted access to the records on IPFS. Smart contract will issue a reward to both auditors if their audits agree within tolerance, but if not, a special auditor will be contracted.  The system proposed would function as a private, permissioned ledger.  [Read full proposal here](https://uabca.github.io/assets/documents/casecomp2018/4.%20Blockchain%20Case%20Competition%20-%20CarbonCoin.pdf)
 
 ![](https://uabca.github.io/assets/documents/casecomp2018/images/Carboncoin1.PNG)
 ![](https://uabca.github.io/assets/documents/casecomp2018/images/Carboncoin2.PNG)
 
-**2nd Place ($200) Winner:** 
+## 2nd Place ($200) Winner: ## 
 
-Title: Distributed Carbon Chain and Audit Protocol 
+**Distributed Carbon Chain and Audit Protocol** 
 Team: Mihai Esanu, Peter Atrazhev, and Nathan Doraty 
 Summary:  Blockchains suffer from the ‘oracle problem’, in that they do not have a built in way to access external information. In carbon credits, this applies to the specialized auditing information. To solve the oracle problem, we propose the reputation of information sources in this system be represented by an ERC-20 token, and the Chainlink architecture. Statisticians stake their reputational token, and if their audit report is not in line with overall consensus (ie. inaccurate), they will be punished through reputation deduction (automatic smart contract). [Read full proposal] here(https://uabca.github.io/assets/documents/casecomp2018/2.BlockchainReport.pdf)
 
 ![](https://uabca.github.io/assets/documents/casecomp2018/images/High_level_architecture.PNG)
 
-FINALISTS (in no particular order):** 
 
-Title: Blockchain Solution to Carbon-Offsets
+# FINALISTS (in no particular order): # 
+
+**Blockchain Solution to Carbon-Offsets**
 Team: Taleana Huff
-Link to full proposal: [link to hosted file]
+[Full proposal](https://uabca.github.io/assets/documents/casecomp2018/1.Taleana_Huff_Carbon-Offset_Blockchain_Case.pdf)
 
-Title: Emissions Reductions and Distributed Ledger Technology
+**Emissions Reductions and Distributed Ledger Technology**
 Team: Dragos Cocosila, Christine Lam, & Olivia Wang
-Link to full proposal: [link to hosted file]
+[Full proposal](https://uabca.github.io/assets/documents/casecomp2018/3.Inaugural%20CaseCompSubmision.pdf)
 
-Title: A Wager-Based Blockchain Protocol for Tracking International Carbon Offset Credits
+**A Wager-Based Blockchain Protocol for Tracking International Carbon Offset Credits**
 Team: Ashley Herman & Rooshan Aslam
-Link to full proposal: [link to hosted file]
+[Full proposal](https://uabca.github.io/assets/documents/casecomp2018/5.%20herman_aslam.pdf)
 
-Title: The Potential for Blockchain Technology in Alberta’s Carbon Offset Mechanisms Pertaining to Large Emitters
+**The Potential for Blockchain Technology in Alberta’s Carbon Offset Mechanisms Pertaining to Large Emitters**
 Team: Kabir Nadkarni & Jason R Wang
-Link to full proposal: [link to hosted file]
+[Full proposal](https://uabca.github.io/assets/documents/casecomp2018/6.2%20The%20potential%20for%20blockchain%20technology%20in%20Alberta’s%20carbon%20offset%20mechanisms%20pertaining%20to%20large%20emitters.pdf)
+
+
+# Feedback and areas for improvement: #
+
+Overall, our organization is pleased with our first event.  We melded blockchain into a business format in a way that hasn't really been done before, inclusive of  students of pretty much any faculty (science, math, CS, engineering, business). You can see the demographic of the participants in the chart below.
+
+![]()
+
+We had a great turnout at the presentation and windup event as well. The audience's engagement was excellent, with many excellent and informed questions being asked. Participants stuck around for hours afterwards to mingle with each other and network with industry professionals who were present from Calgary.   
+
+We also received feedback from participants (likert scores presented in the chart below), and from our own observations and those of our organizers. 
+
+![]()
+
+At our next case competition, we hope to have smoother transitions between presenters, have more judges, and more explicit judging criteria and quantitative scoring. We also intend to increase the proposal word limit to 1500, and the presentation time from 7 minutes to 10 minutes.  
+
+Stay tuned for more events from the Blockchain and Cryptoasset Association!
 
 
 
