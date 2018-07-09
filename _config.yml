@@ -20,7 +20,7 @@ description: "An Association of Blockchain and Digital Currency Enthusiasts"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://uabca.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
-  name:
+  name: Matthew
   twitter:
   picture: 
 twitter_username: 
