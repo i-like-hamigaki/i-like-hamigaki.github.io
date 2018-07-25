@@ -50,7 +50,7 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
 
 /* Colors * txte 222831/
 $base-color: #393e46 !default;
-$text-color: #fff !default;
+$text-color: #F4F5F7 !default;
 $accent-color: #00848a !default;
 $background-color: #263849 !default;
 $code-background-color: tint($base-color, 95%) !default;
@@ -75,6 +75,7 @@ $base0d: #ae95c7 !default;
 $base0e: #c795ae !default;
 $base0f: #c79595 !default;
 $base0g: #263849 !default;
+$base0h: #F4F5F7 !default;
 
 /* Max-width of the main content */
 $main-max-width: $xlarge !default;
