@@ -31,7 +31,7 @@ search_full_content: true # true, false (default)
 search_provider: algolia # lunr (default), algolia
 algolia:
   application_id: RS9RLDBS6Q
-  index_name: Discovery Panda
+  index_name: i-like-hamigaki
   search_only_api_key: 253259215cf848a45f792fa87d9b310d
   powered_by: # true (default), false
 
