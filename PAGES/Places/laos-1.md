@@ -1,0 +1,9 @@
+---
+title: "[place]"
+categories:
+  - Markdown
+tags:
+  - foods
+  - Laos
+last_modified_at: 2018-11-09T12:25:10-05:00
+---
