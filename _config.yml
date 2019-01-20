@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Discovery Panda2
+title: Discovery Panda 3.0
 email:
 description: "Travel × IT-technology"
 baseurl: # the optional subpath of your site, e.g. "/blog"
