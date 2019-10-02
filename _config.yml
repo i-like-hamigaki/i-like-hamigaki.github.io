@@ -27,8 +27,8 @@ twitter_username:
 github_username: i-like-hamigaki
 google_analytics: UA-132404948-1
 logo: /assets/images/logo3.png # path of site logo, e.g. "/assets/images/logo.png"
-search: true # true, false (default)
-search_full_content: true # true, false (default)
+search: false # true, false (default)
+search_full_content: false # true, false (default)
 search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: RS9RLDBS6Q
